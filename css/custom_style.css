@@ -1,0 +1,56 @@
+
+
+.hide_all{
+          
+    border-right-style:hidden;
+    border-left-style:hidden;
+    border-top-style:hidden;
+    
+          }
+
+#main_area{
+    
+    padding: 10px;
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    text-align: center;
+    
+}
+
+#single_device{
+    float: left;
+    padding: 40px;
+    text-decoration-color: white;
+    
+}
+
+.design {
+    
+    background-color: black;
+    
+}
+
+
+ 
+
+
+#bottom {
+    padding-top: 680px;
+    
+    
+}
+@media (max-width: 600px) {
+    
+    #left_sidbar
+    width: 100%;
+        float:none;
+    
+    #right_sidbar
+        width: 100%;
+        float:none;
+    
+   }
+
+
+

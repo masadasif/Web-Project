@@ -1,0 +1,87 @@
+h1{
+float: left;
+    color: black;
+    padding-right: 1000px;
+    padding-left: 40px;
+    font-size: 450%;
+}
+
+
+
+.lab{
+    
+  color:   #069;
+  font-weight: bold;
+}
+
+
+#main_area{
+    
+    padding: 10px;
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    text-align: center;
+    
+}
+
+#single_device{
+    float: left;
+    padding: 40px;
+    text-decoration-color: white;
+    
+}
+
+.design {
+    
+    background-color: black;
+    
+}
+
+#table {
+    border: 1px solid black;
+}
+ 
+
+
+#bottom {
+    padding-top: 680px;
+    
+    
+}
+@media (max-width: 600px) {
+    
+    #left_sidbar
+    width: 100%;
+        float:none;
+    
+    #right_sidbar
+        width: 100%;
+        float:none;
+    
+   }
+
+.glyphicon {
+    font-size: 60px;
+}
+
+.contact {
+    padding: 70px;
+    color: gray;
+    text-align: center;
+        color: #069;
+ 
+}
+
+#text {
+    color: #069;
+    font-size: 280%;
+    
+}
+
+#tex {
+    color: #069;
+    font-size: 180%;
+    
+}
+

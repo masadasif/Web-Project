@@ -1,0 +1,72 @@
+
+.lab{
+    
+  color:   #069;
+  font-weight: bold;
+}
+
+
+#main_area{
+    
+    padding: 10px;
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    text-align: center;
+    
+}
+
+#single_device{
+    float: left;
+    padding: 30px;
+    text-decoration-color: white;
+    
+}
+
+
+ 
+#bottom {
+    padding-top: 680px;
+    
+    
+}
+@media (max-width: 600px) {
+    
+    #left_sidbar
+    width: 100%;
+        float:none;
+    
+    #right_sidbar
+        width: 100%;
+        float:none;
+    
+   }
+
+h1{
+float: left;
+    color: black;
+    padding-right: 1000px;
+    padding-left: 40px;
+    font-size: 450%;
+}
+
+
+
+.lab{
+    
+  color:   #069;
+  font-weight: bold;
+}
+
+
+.name_c{
+    text-decoration-style: solid;
+    font-size: 18px;
+    text-transform: uppercase;
+    word-spacing: -10px;
+    font-weight: bold;
+}
+
+
+
+
